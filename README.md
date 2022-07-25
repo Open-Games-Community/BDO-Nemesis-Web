@@ -1,7 +1,6 @@
 # Black Desert Online HTML Website
 
 - Download: https://opengamescommunity.com/index.php?resources/website-html-cms-black-desert-online.49/
-- Official Website: https://lepiigortv.com
 
 ### How to Install ?
 
